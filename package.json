@@ -1,0 +1,21 @@
+{
+  "name": "@ai-native-solutions/supabase-sdk",
+  "version": "1.0.0",
+  "description": "Sovereign wrapper for Supabase · 100 endpoints from OpenAPI · MIT · AI-Native Solutions",
+  "type": "module",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "AI-Native Solutions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjgant80-hub/supabase-sdk.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
